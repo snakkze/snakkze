@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @snakkze
-- 👀 I’m interested in fortnite
-- 🌱 I’m currently learning battle
-- 💞️ I’m looking to collaborate on pass
-- 📫 How to reach me: youtube.com/snakkze
+### Hi there 👋, i'm snakkze
+![](https://i.imgur.com/G8DEkTv.png)
 
-<!---
-snakkze/snakkze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Im a (definitly not so good) developer from Germany who is coding just for fun. Im coding with Java, Python and (if you want to call it coding) html.
+
+- 🧊 Im currently working on a project called "Ice" . 
+
+
+
+
